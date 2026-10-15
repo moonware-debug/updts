@@ -1,0 +1,8 @@
+{
+    "unsafe": false,
+    "notice": "test",
+    "version": {
+        "current": 117,
+        "minimum": 115
+    }
+}
